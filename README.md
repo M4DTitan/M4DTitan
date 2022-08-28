@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @M4DTitan
+- 👋 Hi, I’m Heldério Wafunga
 - 👀 I’m interested in coding,anime and Marvel Studios movies
 - 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on the comunity
+- 💞️I’m looking to collaborate on the comunity
 - 📫 How to reach me twitter @W4fng
 
 <!---
