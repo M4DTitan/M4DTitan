@@ -1,5 +1,5 @@
-<h1 align="center">Hello world 👋, Helderio</h1>
-<h3 align="center">A mobile developer from Angola</h3>
+<h1 align="center">Hello world 👋, i am Helderio Wafunga</h1>
+<h3 align="center">A junior software and mobile developer from Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4dtitan&label=Profile%20views&color=0e75b6&style=flat" alt="m4dtitan" /> </p>
 
