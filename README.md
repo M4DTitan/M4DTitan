@@ -13,7 +13,7 @@
 
 - 🌱 Currently diving into **Flutter and React Native**
 
-- 📫 Reach me at **Held3riowafunga17@icloud.com**
+- 📫 Reach me at **helderiowafungadev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
